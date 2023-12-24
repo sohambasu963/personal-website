@@ -1,0 +1,47 @@
+<script>
+  import SohamEmoji from '$lib/images/SohamEmoji.png'
+  import WorkingEmoji from '$lib/images/WorkingEmoji.png'
+  import ProjectsEmoji from '$lib/images/ProjectsEmoji.png'
+  import House from '$lib/images/house.png'
+</script>
+
+<nav class="mt-2">
+  <ul class="flex space-x-4">
+    <li class="group">
+      <a
+        href="/"
+        class="flex items-center space-x-2 py-2 px-2 group-hover:bg-cream rounded-full transition-colors duration-500 ease-in-out"
+      >
+        <img src={House} alt="Home" class="w-6 h-6" />
+        <span class="text-blue-500">home</span>
+      </a>
+    </li>
+    <li class="group">
+      <a
+        href="/about"
+        class="flex items-center space-x-2 py-2 px-2 group-hover:bg-cream rounded-full transition-colors duration-500 ease-in-out"
+      >
+        <img src={SohamEmoji} alt="Soham" class="w-6 h-6" />
+        <span class="text-blue-500">about</span>
+      </a>
+    </li>
+    <li class="group">
+      <a
+        href="/work"
+        class="flex items-center space-x-2 py-2 px-2 group-hover:bg-cream rounded-full transition-colors duration-500 ease-in-out"
+      >
+        <img src={WorkingEmoji} alt="Working" class="w-6 h-6" />
+        <span class="text-blue-500">work</span>
+      </a>
+    </li>
+    <li class="group">
+      <a
+        href="/projects"
+        class="flex items-center space-x-2 py-2 px-2 group-hover:bg-cream rounded-full transition-colors duration-500 ease-in-out"
+      >
+        <img src={ProjectsEmoji} alt="Projects" class="w-6 h-6" />
+        <span class="text-blue-500">projects</span>
+      </a>
+    </li>
+  </ul>
+</nav>

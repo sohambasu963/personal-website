@@ -4,7 +4,16 @@ export default {
   theme: {
     extend: {
       backgroundColor: {
-        'primary': '#FBF8EF',
+        'primary': '#f7efd7',
+        'cream': '#FBF8EF',
+      },
+      colors: {
+        'soft-grey': '#706F6B',
+      },
+      fontFamily: {
+        'tiempos-headline': ['Tiempos Headline', 'serif'],
+        'sf-mono': ['SF Mono', 'Menlo', 'monospace'],
+        'epilogue': ['Epilogue', 'sans-serif'],
       },
     },
   },
