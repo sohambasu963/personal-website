@@ -54,7 +54,7 @@
 <img
   src={Soham}
   alt="Soham"
-  class="absolute top-0 m-4 mt-4 md:m-8 md:w-1/4 w-4/5 transform -translate-x-1/2 fade-in left-44.5 md:left-48"
+  class="absolute top-0 m-4 mt-2 md:m-8 md:w-1/4 w-4/5 transform -translate-x-1/2 fade-in left-44.5 md:left-48"
 />
 
 <div
