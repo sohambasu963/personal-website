@@ -54,7 +54,7 @@
 <img
   src={Soham}
   alt="Soham"
-  class="absolute top-0 m-4 mt-2 md:m-8 md:w-1/4 w-4/5 transform -translate-x-1/2 fade-in left-44.5 md:left-48"
+  class="absolute top-0 m-4 mt-1 md:m-8 md:w-1/4 w-4/5 transform -translate-x-1/2 fade-in left-44.5 md:left-48"
 />
 
 <div
@@ -85,7 +85,7 @@
               <a
                 href="https://www.socratica.info/"
                 target="_blank"
-                class="border-b-2 border-blue-500 hover:bg-blue-500 hover:text-white px-1 transition duration-500 ease-in-out"
+                class="border-b-2 border-orange hover:bg-orange hover:text-white px-1 transition duration-500 ease-in-out"
               >
                 Socratica
               </a>
@@ -125,7 +125,7 @@
               Playing pianos on campus and <a
                 href="https://youtu.be/v9qndL3QweY"
                 target="_blank"
-                class="border-b-2 border-blue-500 hover:bg-blue-500 hover:text-white px-1 transition duration-500 ease-in-out"
+                class="border-b-2 border-orange hover:bg-orange hover:text-white px-1 transition duration-500 ease-in-out"
               >
                 recording reactions
               </a>

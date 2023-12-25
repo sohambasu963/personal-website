@@ -54,7 +54,7 @@
           <a
             href="https://www.socratica.info/"
             target="_blank"
-            class="font-sf-mono font-bold text-lg border-b-2 border-blue-500 hover:bg-blue-500 hover:text-white px-1 transition duration-500 ease-in-out"
+            class="font-sf-mono font-bold text-lg border-b-2 border-orange hover:bg-orange hover:text-white px-1 transition duration-500 ease-in-out"
           >
             Socratica Website
           </a>
@@ -69,7 +69,7 @@
           <a
             href="https://github.com/sohambasu963/MealMetrics"
             target="_blank"
-            class="font-sf-mono font-bold text-lg border-b-2 border-blue-500 hover:bg-blue-500 hover:text-white px-1 transition duration-500 ease-in-out"
+            class="font-sf-mono font-bold text-lg border-b-2 border-orange hover:bg-orange hover:text-white px-1 transition duration-500 ease-in-out"
           >
             Meal Metrics
           </a>
@@ -85,7 +85,7 @@
           <a
             href="https://devpost.com/software/agents-school"
             target="_blank"
-            class="font-sf-mono font-bold text-lg border-b-2 border-blue-500 hover:bg-blue-500 hover:text-white px-1 transition duration-500 ease-in-out"
+            class="font-sf-mono font-bold text-lg border-b-2 border-orange hover:bg-orange hover:text-white px-1 transition duration-500 ease-in-out"
           >
             School AI Agent
           </a>

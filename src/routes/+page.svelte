@@ -90,7 +90,7 @@
       Reach me at {''}
       <a
         href="mailto:sohambasu963@gmail.com"
-        class="border-b-2 border-blue-500 hover:bg-blue-500 hover:text-white px-1 transition duration-500 ease-in-out"
+        class="border-b-2 border-orange hover:bg-orange hover:text-white px-1 transition duration-500 ease-in-out"
       >
         sohambasu963@gmail.com
       </a>
@@ -98,7 +98,7 @@
       <a
         href="https://twitter.com/sohambasu963"
         target="_blank"
-        class="border-b-2 border-blue-500 hover:bg-blue-500 hover:text-white px-1 transition duration-500 ease-in-out"
+        class="border-b-2 border-orange hover:bg-orange hover:text-white px-1 transition duration-500 ease-in-out"
       >
         @sohambasu963
       </a>

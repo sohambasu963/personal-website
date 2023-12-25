@@ -56,7 +56,7 @@
             <a
               href="https://www.bronco.ai/"
               target="_blank"
-              class="border-b-2 border-blue-500 hover:bg-blue-500 hover:text-white px-1 transition duration-500 ease-in-out"
+              class="border-b-2 border-orange hover:bg-orange hover:text-white px-1 transition duration-500 ease-in-out"
             >
               Bronco AI
             </a>
@@ -74,7 +74,7 @@
             <a
               href="https://www.portfolioxpressway.com/"
               target="_blank"
-              class="border-b-2 border-blue-500 hover:bg-blue-500 hover:text-white px-1 transition duration-500 ease-in-out"
+              class="border-b-2 border-orange hover:bg-orange hover:text-white px-1 transition duration-500 ease-in-out"
             >
               Portfolio Xpressway
             </a>
@@ -92,7 +92,7 @@
             <a
               href="https://www.birdseyeglobal.com/"
               target="_blank"
-              class="border-b-2 border-blue-500 hover:bg-blue-500 hover:text-white px-1 transition duration-500 ease-in-out"
+              class="border-b-2 border-orange hover:bg-orange hover:text-white px-1 transition duration-500 ease-in-out"
             >
               Birdseye
             </a>
