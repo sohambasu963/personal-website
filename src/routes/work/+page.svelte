@@ -37,7 +37,7 @@
   import Navbar from '$lib/components/navbar.svelte'
 </script>
 
-<div class="bg-primary min-h-screen flex flex-col items-center">
+<div class="min-h-screen flex flex-col items-center" style="background: linear-gradient(to bottom, #FBF8EF 0%, #F7EFD7 100%);">
   <div class="w-4/5 flex flex-col items-center">
     <div class="typewriter mt-4 mt-[40vh]">
       <h1 class="text-4xl font-tiempos-headline">Work</h1>

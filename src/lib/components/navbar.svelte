@@ -10,7 +10,7 @@
     <li class="group">
       <a
         href="/"
-        class="flex items-center space-x-2 py-2 px-2 group-hover:bg-cream rounded-full transition-colors duration-500 ease-in-out"
+        class="flex items-center space-x-2 py-2 px-2 group-hover:bg-gray-200 rounded-full transition-colors duration-500 ease-in-out"
       >
         <img src={House} alt="Home" class="w-6 h-6" />
         <span class="text-blue-500">home</span>
@@ -19,7 +19,7 @@
     <li class="group">
       <a
         href="/about"
-        class="flex items-center space-x-2 py-2 px-2 group-hover:bg-cream rounded-full transition-colors duration-500 ease-in-out"
+        class="flex items-center space-x-2 py-2 px-2 group-hover:bg-gray-200 rounded-full transition-colors duration-500 ease-in-out"
       >
         <img src={SohamEmoji} alt="Soham" class="w-6 h-6" />
         <span class="text-blue-500">about</span>
@@ -28,7 +28,7 @@
     <li class="group">
       <a
         href="/work"
-        class="flex items-center space-x-2 py-2 px-2 group-hover:bg-cream rounded-full transition-colors duration-500 ease-in-out"
+        class="flex items-center space-x-2 py-2 px-2 group-hover:bg-gray-200 rounded-full transition-colors duration-500 ease-in-out"
       >
         <img src={WorkingEmoji} alt="Working" class="w-6 h-6" />
         <span class="text-blue-500">work</span>
@@ -37,7 +37,7 @@
     <li class="group">
       <a
         href="/projects"
-        class="flex items-center space-x-2 py-2 px-2 group-hover:bg-cream rounded-full transition-colors duration-500 ease-in-out"
+        class="flex items-center space-x-2 py-2 px-2 group-hover:bg-gray-200 rounded-full transition-colors duration-500 ease-in-out"
       >
         <img src={ProjectsEmoji} alt="Projects" class="w-6 h-6" />
         <span class="text-blue-500">projects</span>

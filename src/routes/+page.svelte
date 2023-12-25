@@ -57,7 +57,13 @@
   import GithubLogo from '$lib/images/GithubLogo.svg'
 </script>
 
-<div class="bg-primary min-h-screen flex flex-col items-center">
+
+<svelte:head>
+	<title>Soham Basu</title>
+	<meta name="description" content="Soham Basu's personal website" />
+</svelte:head>
+
+<div class="min-h-screen flex flex-col items-center" style="background: linear-gradient(to bottom, #FBF8EF 0%, #F7EFD7 100%);">
   <div class="w-4/5 mt-[40vh] flex flex-col items-center">
     <div class="typewriter">
       <h1 class="text-4xl font-tiempos-headline">Hi, I'm Soham!</h1>

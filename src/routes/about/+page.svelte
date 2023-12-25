@@ -58,7 +58,7 @@
   style="left: 48%;"
 />
 
-<div class="bg-primary min-h-screen flex flex-col items-center">
+<div class="min-h-screen flex flex-col items-center" style="background: linear-gradient(to bottom, #FBF8EF 0%, #F7EFD7 100%);">
   <div class="flex flex-col items-center" style="width: 90%;">
     <div class="typewriter mt-4 mt-[40vh]">
       <h1 class="text-4xl font-tiempos-headline">About</h1>

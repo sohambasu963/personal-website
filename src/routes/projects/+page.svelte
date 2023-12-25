@@ -37,7 +37,7 @@
   import Navbar from '$lib/components/navbar.svelte'
 </script>
 
-<div class="bg-primary min-h-screen flex flex-col items-center">
+<div class="min-h-screen flex flex-col items-center" style="background: linear-gradient(to bottom, #FBF8EF 0%, #F7EFD7 100%);">
   <div class="w-4/5 flex flex-col items-center">
     <div class="typewriter mt-4 mt-[40vh]">
       <h1 class="text-4xl font-tiempos-headline">Projects</h1>
@@ -55,8 +55,8 @@
             </li>
           </ul>
         </li>
-        <li>
-          <a href="https://github.com/sohambasu963/MealMetrics" target="_blank" class="font-sf-mono font-bold text-lg mt-8 border-b-2 border-blue-500 hover:bg-blue-500 hover:text-white px-1 transition duration-500 ease-in-out">
+        <li class="mt-8">
+          <a href="https://github.com/sohambasu963/MealMetrics" target="_blank" class="font-sf-mono font-bold text-lg border-b-2 border-blue-500 hover:bg-blue-500 hover:text-white px-1 transition duration-500 ease-in-out">
             Meal Metrics
           </a>
     
@@ -66,8 +66,8 @@
             </li>
           </ul>
         </li>
-        <li>
-          <a href="https://devpost.com/software/agents-school" target="_blank" class="font-sf-mono font-bold text-lg mt-8 border-b-2 border-blue-500 hover:bg-blue-500 hover:text-white px-1 transition duration-500 ease-in-out">
+        <li class="mt-8">
+          <a href="https://devpost.com/software/agents-school" target="_blank" class="font-sf-mono font-bold text-lg border-b-2 border-blue-500 hover:bg-blue-500 hover:text-white px-1 transition duration-500 ease-in-out">
             School AI Agent
           </a>
           <ul class="list-disc pl-6">
