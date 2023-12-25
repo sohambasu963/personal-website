@@ -37,7 +37,10 @@
   import Navbar from '$lib/components/navbar.svelte'
 </script>
 
-<div class="min-h-screen flex flex-col items-center" style="background: linear-gradient(to bottom, #FBF8EF 0%, #F7EFD7 100%);">
+<div
+  class="min-h-screen flex flex-col items-center"
+  style="background: linear-gradient(to bottom, #FBF8EF 0%, #F7EFD7 100%);"
+>
   <div class="md:w-4/5 flex flex-col items-center" style="width: 90%">
     <div class="typewriter mt-4 mt-[30vh] md:mt-[40vh]">
       <h1 class="text-4xl font-tiempos-headline">Work</h1>
@@ -60,7 +63,8 @@
           </p>
           <ul class="list-disc pl-6">
             <li class="font-sf-mono text-soft-grey text-lg mt-2">
-              Leveraged GPT-4 subscription to build prototypes that help factories run more efficiently
+              Leveraged GPT-4 subscription to build prototypes that help
+              factories run more efficiently
             </li>
           </ul>
         </li>
@@ -77,7 +81,8 @@
           </p>
           <ul class="list-disc pl-6">
             <li class="font-sf-mono text-soft-grey text-lg mt-2">
-              Built dashboards and data visualizations that help advisors and clients track their investments
+              Built dashboards and data visualizations that help advisors and
+              clients track their investments
             </li>
           </ul>
         </li>
@@ -94,7 +99,8 @@
           </p>
           <ul class="list-disc pl-6">
             <li class="font-sf-mono text-soft-grey text-lg mt-2">
-              Developed an ad-tech query engine to help clients track customer insights and boost ad traffic 
+              Developed an ad-tech query engine to help clients track customer
+              insights and boost ad traffic
             </li>
           </ul>
         </li>

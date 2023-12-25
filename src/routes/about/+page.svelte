@@ -57,14 +57,17 @@
   class="absolute top-0 m-4 mt-4 md:m-8 md:w-1/4 w-4/5 transform -translate-x-1/2 fade-in left-44.5 md:left-48"
 />
 
-<div class="min-h-screen flex flex-col items-center" style="background: linear-gradient(to bottom, #FBF8EF 0%, #F7EFD7 100%);">
+<div
+  class="min-h-screen flex flex-col items-center"
+  style="background: linear-gradient(to bottom, #FBF8EF 0%, #F7EFD7 100%);"
+>
   <div class="flex flex-col items-center" style="width: 90%;">
     <div class="typewriter mt-4 mt-[30vh] md:mt-[40vh]">
       <h1 class="text-4xl font-tiempos-headline">About</h1>
     </div>
     <div class="-ml-3 md:ml-0">
-        <Navbar />
-      </div>
+      <Navbar />
+    </div>
     <div class="flex flex-row justify-between w-full mt-8">
       <div class="w-1/2 text-left md:mb-0 mb-4">
         <h2 class="text-2xl font-tiempos-headline">
