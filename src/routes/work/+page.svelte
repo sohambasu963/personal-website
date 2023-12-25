@@ -49,9 +49,9 @@
       <Navbar />
     </div>
     <div class="mt-8 w-full text-left">
-      <ul class="list-disc pl-6">
+      <ul class="list-disc pl-6 space-y-4 md:space-y-12">
         <li>
-          <p class="font-sf-mono text-lg">
+          <p class="font-sf-mono md:text-lg text-md">
             <span class="font-bold">Full Stack Engineer</span> @
             <a
               href="https://www.bronco.ai/"
@@ -62,14 +62,16 @@
             </a>
           </p>
           <ul class="list-disc pl-6">
-            <li class="font-sf-mono text-soft-grey text-lg mt-2">
-              Leveraged GPT-4 subscription to build prototypes that help
-              factories run more efficiently
+            <li
+              class="font-sf-mono text-soft-grey md:text-lg text-md mt-1 md:mt-2"
+            >
+              Built LLM-backed prototypes that help factories run more
+              efficiently
             </li>
           </ul>
         </li>
         <li>
-          <p class="font-sf-mono text-lg mt-8">
+          <p class="font-sf-mono md:text-lg text-md">
             <span class="font-bold">Software Engineer</span> @
             <a
               href="https://www.portfolioxpressway.com/"
@@ -80,14 +82,16 @@
             </a>
           </p>
           <ul class="list-disc pl-6">
-            <li class="font-sf-mono text-soft-grey text-lg mt-2">
+            <li
+              class="font-sf-mono text-soft-grey md:text-lg text-md mt-1 md:mt-2"
+            >
               Built dashboards and data visualizations that help advisors and
               clients track their investments
             </li>
           </ul>
         </li>
         <li>
-          <p class="font-sf-mono text-lg mt-8">
+          <p class="font-sf-mono md:text-lg text-md">
             <span class="font-bold">Full Stack Engineer</span> @
             <a
               href="https://www.birdseyeglobal.com/"
@@ -98,7 +102,9 @@
             </a>
           </p>
           <ul class="list-disc pl-6">
-            <li class="font-sf-mono text-soft-grey text-lg mt-2">
+            <li
+              class="font-sf-mono text-soft-grey md:text-lg text-md mt-1 md:mt-2"
+            >
               Developed an ad-tech query engine to help clients track customer
               insights and boost ad traffic
             </li>

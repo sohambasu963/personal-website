@@ -79,14 +79,14 @@
   </div>
 
   <div class="md:w-4/5 flex flex-col items-center mt-8" style="width: 90%">
-    <p class="text-lg font-sf-mono text-soft-grey text-center">
+    <p class="md:text-lg text-md font-sf-mono text-soft-grey text-center">
       Software developer and Computer Science + Finance at the University of
       Waterloo!
     </p>
-    <p class="text-lg font-sf-mono text-soft-grey text-center mt-1">
+    <p class="md:text-lg text-md font-sf-mono text-soft-grey text-center mt-1">
       Always on the lookout for cool projects and internships!
     </p>
-    <p class="text-lg font-sf-mono text-soft-grey text-center mt-1">
+    <p class="md:text-lg text-md font-sf-mono text-soft-grey text-center mt-1">
       Reach me at {''}
       <a
         href="mailto:sohambasu963@gmail.com"

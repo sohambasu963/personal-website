@@ -6,11 +6,11 @@ export default {
       backgroundColor: {
         'primary': '#f7efd7',
         'cream': '#FBF8EF',
-        'orange': '#fc923a',
+        'orange': '#ab530a',
       },
       colors: {
         'soft-grey': '#706F6B',
-        'orange': '#f5852a'
+        'orange': '#ab530a'
       },
       fontFamily: {
         'tiempos-headline': ['Tiempos Headline', 'serif'],
