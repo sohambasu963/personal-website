@@ -106,7 +106,7 @@
     </p>
   </div>
   <div
-    class="absolute bottom-16 md:bottom-8 transform -translate-x-1/2 flex items-center gap-4"
+    class="absolute bottom-4 md:bottom-8 transform -translate-x-1/2 flex items-center gap-4"
     style="left: 49%;"
   >
     <a

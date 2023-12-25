@@ -58,7 +58,7 @@
 />
 
 <div
-  class="min-h-screen flex flex-col items-center"
+  class="min-h-screen flex flex-col items-center md:pb-0 pb-8"
   style="background: linear-gradient(to bottom, #FBF8EF 0%, #F7EFD7 100%);"
 >
   <div class="flex flex-col items-center" style="width: 90%;">
@@ -69,7 +69,7 @@
       <Navbar />
     </div>
     <div class="flex flex-row justify-between w-full mt-8">
-      <div class="w-1/2 text-left md:mb-0 mb-4">
+      <div class="w-1/2 text-left">
         <h2 class="text-2xl font-tiempos-headline">
           What I'm currently up to:
         </h2>

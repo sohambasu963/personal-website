@@ -38,7 +38,7 @@
 </script>
 
 <div
-  class="min-h-screen flex flex-col items-center"
+  class="min-h-screen flex flex-col items-center md:pb-0 pb-8"
   style="background: linear-gradient(to bottom, #FBF8EF 0%, #F7EFD7 100%);"
 >
   <div class="md:w-4/5 flex flex-col items-center" style="width: 90%">
