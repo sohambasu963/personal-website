@@ -15,6 +15,10 @@ export default {
         'sf-mono': ['SF Mono', 'Menlo', 'monospace'],
         'epilogue': ['Epilogue', 'sans-serif'],
       },
+      inset: {
+        '44.5': '44.5%',
+        '48': '48%',
+      },
     },
   },
   plugins: [],

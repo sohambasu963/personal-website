@@ -64,22 +64,24 @@
 </svelte:head>
 
 <div class="min-h-screen flex flex-col items-center" style="background: linear-gradient(to bottom, #FBF8EF 0%, #F7EFD7 100%);">
-  <div class="w-4/5 mt-[40vh] flex flex-col items-center">
+  <div class="md:w-4/5 mt-[30vh] md:mt-[40vh] flex flex-col items-center" style="width: 90%">
     <div class="typewriter">
       <h1 class="text-4xl font-tiempos-headline">Hi, I'm Soham!</h1>
     </div>
-    <Navbar />
+    <div class="-ml-3 md:ml-0">
+      <Navbar />
+    </div>
   </div>
 
-  <div class="w-4/5 flex flex-col items-center mt-8">
+  <div class="md:w-4/5 flex flex-col items-center mt-8" style="width: 90%">
     <p class="text-lg font-sf-mono text-soft-grey text-center">
       Software developer and Computer Science + Finance at the University of
       Waterloo!
     </p>
-    <p class="text-lg font-sf-mono text-soft-grey text-center">
+    <p class="text-lg font-sf-mono text-soft-grey text-center mt-1">
       Always on the lookout for cool projects and internships!
     </p>
-    <p class="text-lg font-sf-mono text-soft-grey text-center">
+    <p class="text-lg font-sf-mono text-soft-grey text-center mt-1">
       Reach me at {''}
       <a
         href="mailto:sohambasu963@gmail.com"
@@ -99,7 +101,7 @@
     </p>
   </div>
   <div
-    class="absolute bottom-8 transform -translate-x-1/2 flex items-center gap-4"
+    class="absolute bottom-16 md:bottom-8 transform -translate-x-1/2 flex items-center gap-4"
     style="left: 49%;"
   >
     <a
