@@ -89,7 +89,7 @@
               >
                 Socratica
               </a>
-              sessions (I got to build the website!!)
+              sessions (I built the website!!)
             </p>
           </li>
           <li>
