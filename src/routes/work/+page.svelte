@@ -58,7 +58,7 @@
           </p>
           <ul class="list-disc pl-6">
             <li class="font-sf-mono text-soft-grey text-lg mt-2">
-              Description or details about the role
+              Leveraged GPT-4 subscription to build prototypes that help factories run more efficiently
             </li>
           </ul>
         </li>
@@ -75,7 +75,7 @@
           </p>
           <ul class="list-disc pl-6">
             <li class="font-sf-mono text-soft-grey text-lg mt-2">
-              Description or details about the role
+              Built dashboards and data visualizations that help advisors and clients track their investments
             </li>
           </ul>
         </li>
@@ -92,7 +92,7 @@
           </p>
           <ul class="list-disc pl-6">
             <li class="font-sf-mono text-soft-grey text-lg mt-2">
-              Description or details about the role
+              Developed an ad-tech query engine to help clients track customer insights and boost ad traffic 
             </li>
           </ul>
         </li>

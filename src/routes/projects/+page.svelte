@@ -46,73 +46,37 @@
     <div class="mt-8 w-full text-left">
       <ul class="list-disc pl-6">
         <li>
-          <p class="font-sf-mono font-bold text-lg">Socratica Website</p>
+          <a href="https://www.socratica.info/" target="_blank" class="font-sf-mono font-bold text-lg border-b-2 border-blue-500 hover:bg-blue-500 hover:text-white px-1 transition duration-500 ease-in-out">
+            Socratica Website
+          </a>
           <ul class="list-disc pl-6">
             <li class="font-sf-mono text-soft-grey text-lg mt-2">
-              Description or details about the role
+              Built a website for Socratica, with a map that tracks nodes from around the world
             </li>
           </ul>
         </li>
         <li>
-          <p class="font-sf-mono font-bold text-lg mt-8">Meal Metrics</p>
+          <a href="https://github.com/sohambasu963/MealMetrics" target="_blank" class="font-sf-mono font-bold text-lg mt-8 border-b-2 border-blue-500 hover:bg-blue-500 hover:text-white px-1 transition duration-500 ease-in-out">
+            Meal Metrics
+          </a>
+    
           <ul class="list-disc pl-6">
             <li class="font-sf-mono text-soft-grey text-lg mt-2">
-              Description or details about the role
+              Created an app that identifies the nutritional value of a meal from a picture
             </li>
           </ul>
         </li>
         <li>
-          <p class="font-sf-mono font-bold text-lg mt-8">School AI Agent</p>
+          <a href="https://devpost.com/software/agents-school" target="_blank" class="font-sf-mono font-bold text-lg mt-8 border-b-2 border-blue-500 hover:bg-blue-500 hover:text-white px-1 transition duration-500 ease-in-out">
+            School AI Agent
+          </a>
           <ul class="list-disc pl-6">
             <li class="font-sf-mono text-soft-grey text-lg mt-2">
-              Description or details about the role
+              Developed an AI agent that solves assignments from MIT OpenCourseWare (won our team a hackathon!)
             </li>
           </ul>
         </li>
       </ul>
     </div>
-    <!-- <div class="mt-8 w-full text-left">
-        <h2 class="text-2xl font-tiempos-headline">What I'm currently up to:</h2>
-        <ul class="list-disc pl-6 mt-4">
-          <li>
-            <p class="font-sf-mono text-soft-grey text-lg">
-              Building out cool software for startups
-            </p>
-          </li>
-          <li>
-            <p class="font-sf-mono text-soft-grey text-lg">
-              Hosting
-              <a
-                href="https://www.socratica.info/"
-                target="_blank"
-                class="border-b-2 border-blue-500 hover:bg-blue-500 hover:text-white px-1 transition duration-500 ease-in-out"
-              >
-                Socratica
-              </a>
-              sessions (I got to build the website!!)
-            </p>
-          </li>
-          <li>
-            <p class="font-sf-mono text-soft-grey text-lg">
-              Tinkering with LLMs and the latest frontend frameworks
-            </p>
-          </li>
-          <li>
-              <p class="font-sf-mono text-soft-grey text-lg">
-                Playing some 🔥 jazz improv on the piano
-              </p>
-            </li>
-            <li>
-              <p class="font-sf-mono text-soft-grey text-lg">
-                Working out at the gym, swimming, playing soccer
-              </p>
-            </li>
-            <li>
-              <p class="font-sf-mono text-soft-grey text-lg">
-                All of the above
-              </p>
-            </li>
-        </ul>
-      </div> -->
   </div>
 </div>
