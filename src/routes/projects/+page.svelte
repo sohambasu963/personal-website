@@ -48,8 +48,8 @@
     <div class="-ml-3 md:ml-0">
       <Navbar />
     </div>
-    <div class="mt-8 w-full text-left">
-      <ul class="list-disc pl-6 space-y-4 md:space-y-12">
+    <div class="mt-8 mb-8 w-full text-left">
+      <ul class="list-disc pl-6 space-y-4 md:space-y-8">
         <li>
           <a
             href="https://www.socratica.info/"
@@ -69,6 +69,22 @@
         </li>
         <li>
           <a
+            href="https://invoicer-soham.vercel.app/"
+            target="_blank"
+            class="font-sf-mono font-bold md:text-lg text-md border-b-2 border-orange hover:bg-orange hover:text-white px-1 transition duration-500 ease-in-out"
+          >
+            Invoicer
+          </a>
+          <ul class="list-disc pl-6">
+            <li
+              class="font-sf-mono text-soft-grey md:text-lg text-md mt-1 md:mt-2"
+            >
+              Built an app that allows users to generate and export custom invoices
+            </li>
+          </ul>
+        </li>
+        <li>
+          <a
             href="https://github.com/sohambasu963/MealMetrics"
             target="_blank"
             class="font-sf-mono font-bold md:text-lg text-md border-b-2 border-orange hover:bg-orange hover:text-white px-1 transition duration-500 ease-in-out"
@@ -80,8 +96,7 @@
             <li
               class="font-sf-mono text-soft-grey md:text-lg text-md mt-1 md:mt-2"
             >
-              Created an app that identifies the nutritional value of a meal
-              from a picture
+              Created an app that uses a picture of your meal to identify its nutritional value
             </li>
           </ul>
         </li>
