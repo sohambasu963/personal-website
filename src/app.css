@@ -5,3 +5,7 @@
 body {
     cursor: url('./lib/images/cursor.svg'), auto;
 }
+
+a, button {
+    cursor: url('./lib/images/clickable-cursor.svg'), pointer;
+}
