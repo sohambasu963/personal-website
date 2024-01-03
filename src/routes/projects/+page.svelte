@@ -24,7 +24,6 @@
     overflow: hidden;
     border-right: 0.15em solid rgba(128, 128, 128, 0.75);
     white-space: nowrap;
-    letter-spacing: 0.05em;
     width: 0;
     visibility: hidden;
     animation:
@@ -60,7 +59,7 @@
           </a>
           <ul class="list-disc pl-6">
             <li
-              class="font-sf-mono text-soft-grey md:text-lg text-md mt-1 md:mt-2"
+              class="tracking-tight font-sf-mono text-soft-grey md:text-lg text-md mt-1 md:mt-2"
             >
               Built a website for Socratica, with a map that tracks nodes from
               around the world
@@ -71,7 +70,7 @@
           <a
             href="https://invoicer-soham.vercel.app/"
             target="_blank"
-            class="font-sf-mono font-bold md:text-lg text-md border-b-2 border-orange hover:bg-orange hover:text-white px-1 transition duration-500 ease-in-out"
+            class="tracking-tight font-sf-mono font-bold md:text-lg text-md border-b-2 border-orange hover:bg-orange hover:text-white px-1 transition duration-500 ease-in-out"
           >
             Invoicer
           </a>
@@ -87,7 +86,7 @@
           <a
             href="https://github.com/sohambasu963/MealMetrics"
             target="_blank"
-            class="font-sf-mono font-bold md:text-lg text-md border-b-2 border-orange hover:bg-orange hover:text-white px-1 transition duration-500 ease-in-out"
+            class="tracking-tight font-sf-mono font-bold md:text-lg text-md border-b-2 border-orange hover:bg-orange hover:text-white px-1 transition duration-500 ease-in-out"
           >
             Meal Metrics
           </a>
@@ -104,7 +103,7 @@
           <a
             href="https://devpost.com/software/agents-school"
             target="_blank"
-            class="font-sf-mono font-bold md:text-lg text-md border-b-2 border-orange hover:bg-orange hover:text-white px-1 transition duration-500 ease-in-out"
+            class="tracking-tight font-sf-mono font-bold md:text-lg text-md border-b-2 border-orange hover:bg-orange hover:text-white px-1 transition duration-500 ease-in-out"
           >
             School AI Agent
           </a>

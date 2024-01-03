@@ -24,7 +24,6 @@
     overflow: hidden;
     border-right: 0.15em solid rgba(128, 128, 128, 0.75);
     white-space: nowrap;
-    letter-spacing: 0.05em;
     width: 0;
     visibility: hidden;
     animation:
@@ -70,17 +69,17 @@
     </div>
     <div class="flex flex-row justify-between w-full mt-8">
       <div class="w-1/2 text-left">
-        <h2 class="text-xl md:text-2xl font-tiempos-headline">
+        <h2 class="text-xl md:text-2xl font-tiempos-headline tracking-tight">
           What I'm currently up to:
         </h2>
         <ul class="list-disc pl-6 mt-4 space-y-2">
           <li>
-            <p class="font-sf-mono text-soft-grey md:text-lg text-md">
+            <p class="tracking-tight font-sf-mono text-soft-grey md:text-lg text-md">
               Building out cool software for startups
             </p>
           </li>
           <li>
-            <p class="font-sf-mono text-soft-grey md:text-lg text-md">
+            <p class="tracking-tight font-sf-mono text-soft-grey md:text-lg text-md">
               Hosting
               <a
                 href="https://www.socratica.info/"
@@ -93,39 +92,39 @@
             </p>
           </li>
           <li>
-            <p class="font-sf-mono text-soft-grey md:text-lg text-md">
+            <p class="tracking-tight font-sf-mono text-soft-grey md:text-lg text-md">
               Tinkering with LLMs and the latest frontend frameworks
             </p>
           </li>
           <li>
-            <p class="font-sf-mono text-soft-grey md:text-lg text-md">
+            <p class="tracking-tight font-sf-mono text-soft-grey md:text-lg text-md">
               Playing some 🔥 jazz improv on the piano
             </p>
           </li>
           <li>
-            <p class="font-sf-mono text-soft-grey md:text-lg text-md">
+            <p class="tracking-tight font-sf-mono text-soft-grey md:text-lg text-md">
               Playing bullet chess to improve my reaction time
             </p>
           </li>
           <li>
-            <p class="font-sf-mono text-soft-grey md:text-lg text-md">
+            <p class="tracking-tight font-sf-mono text-soft-grey md:text-lg text-md">
               Working out, swimming, playing soccer
             </p>
           </li>
           <li>
-            <p class="font-sf-mono text-soft-grey md:text-lg text-md">
+            <p class="tracking-tight font-sf-mono text-soft-grey md:text-lg text-md">
               All of the above
             </p>
           </li>
         </ul>
       </div>
       <div class="w-1/2 text-left">
-        <h2 class="text-xl md:text-2xl font-tiempos-headline">
+        <h2 class="text-xl md:text-2xl font-tiempos-headline tracking-tight">
           What keeps me going:
         </h2>
         <ul class="list-disc pl-6 mt-4 space-y-2">
           <li>
-            <p class="font-sf-mono text-soft-grey md:text-lg text-md">
+            <p class="tracking-tight font-sf-mono text-soft-grey md:text-lg text-md">
               Playing pianos on campus and <a
                 href="https://youtu.be/v9qndL3QweY"
                 target="_blank"
@@ -136,12 +135,12 @@
             </p>
           </li>
           <li>
-            <p class="font-sf-mono text-soft-grey md:text-lg text-md">
+            <p class="tracking-tight font-sf-mono text-soft-grey md:text-lg text-md">
               Signing up for as many intramural sports as possible
             </p>
           </li>
           <li>
-            <p class="font-sf-mono text-soft-grey md:text-lg text-md">
+            <p class="tracking-tight font-sf-mono text-soft-grey md:text-lg text-md">
               Hosting friends and building a community
             </p>
           </li>

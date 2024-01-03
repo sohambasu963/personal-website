@@ -21,6 +21,9 @@ export default {
         '44.5': '44.5%',
         '48': '48%',
       },
+      letterSpacing: {
+        'tighter': '-0.04em',
+      },
     },
   },
   plugins: [],

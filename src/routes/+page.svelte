@@ -24,7 +24,6 @@
     overflow: hidden;
     border-right: 0.15em solid rgba(128, 128, 128, 0.75);
     white-space: nowrap;
-    letter-spacing: 0.05em;
     width: 0;
     visibility: hidden;
     animation:
@@ -36,11 +35,12 @@
     display: inline-flex;
     justify-content: center;
     align-items: center;
-    width: 38px;
-    height: 38px;
+    width: 50px;
+    height: 50px;
     padding: 5px;
     border: 2px solid;
     border-radius: 9999px;
+    border-color: #FFFFFF;
     overflow: hidden;
   }
   .icon {
@@ -48,6 +48,7 @@
     width: 80%;
     height: auto;
   }
+
 </style>
 
 <script>
@@ -79,14 +80,14 @@
   </div>
 
   <div class="md:w-4/5 flex flex-col items-center mt-8" style="width: 90%">
-    <p class="md:text-lg text-md font-sf-mono text-soft-grey text-center">
+    <p class="md:text-lg text-md font-sf-mono text-soft-grey text-center tracking-tight">
       Software developer and Computer Science + Finance at the University of
       Waterloo!
     </p>
-    <p class="md:text-lg text-md font-sf-mono text-soft-grey text-center mt-1">
+    <p class="md:text-lg text-md font-sf-mono text-soft-grey text-center mt-1 tracking-tight">
       Always on the lookout for cool projects and internships!
     </p>
-    <p class="md:text-lg text-md font-sf-mono text-soft-grey text-center mt-1">
+    <p class="md:text-lg text-md font-sf-mono text-soft-grey text-center mt-1 tracking-tight">
       Reach me at {''}
       <a
         href="mailto:sohambasu963@gmail.com"
@@ -112,24 +113,21 @@
     <a
       href="https://twitter.com/sohambasu963"
       target="_blank"
-      class="icon-container"
-      style="border-color: #649AEA;"
+      class="icon-container hover:bg-gray-200"
     >
       <img src={TwitterLogo} alt="Twitter" class="icon" />
     </a>
     <a
       href="https://www.linkedin.com/in/sohambasu963/"
       target="_blank"
-      class="icon-container"
-      style="border-color: #327BE6;"
+      class="icon-container hover:bg-gray-200"
     >
       <img src={LinkedinLogo} alt="LinkedIn" class="icon" />
     </a>
     <a
       href="https://github.com/sohambasu963"
       target="_blank"
-      class="icon-container"
-      style="border-color: #303030;"
+      class="icon-container hover:bg-gray-200"
     >
       <img src={GithubLogo} alt="GitHub" class="icon" />
     </a>

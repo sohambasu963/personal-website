@@ -24,7 +24,6 @@
     overflow: hidden;
     border-right: 0.15em solid rgba(128, 128, 128, 0.75);
     white-space: nowrap;
-    letter-spacing: 0.05em;
     width: 0;
     visibility: hidden;
     animation:
@@ -51,7 +50,7 @@
     <div class="mt-8 w-full text-left">
       <ul class="list-disc pl-6 space-y-4 md:space-y-12">
         <li>
-          <p class="font-sf-mono md:text-lg text-md">
+          <p class="tracking-tight font-sf-mono md:text-lg text-md">
             <span class="font-bold">Full Stack Engineer</span> @
             <a
               href="https://www.bronco.ai/"
@@ -63,7 +62,7 @@
           </p>
           <ul class="list-disc pl-6">
             <li
-              class="font-sf-mono text-soft-grey md:text-lg text-md mt-1 md:mt-2"
+              class="tracking-tight font-sf-mono text-soft-grey md:text-lg text-md mt-1 md:mt-2"
             >
               Built LLM-backed prototypes that help factories run more
               efficiently
@@ -71,7 +70,7 @@
           </ul>
         </li>
         <li>
-          <p class="font-sf-mono md:text-lg text-md">
+          <p class="tracking-tight font-sf-mono md:text-lg text-md">
             <span class="font-bold">Software Engineer</span> @
             <a
               href="https://www.portfolioxpressway.com/"
@@ -83,7 +82,7 @@
           </p>
           <ul class="list-disc pl-6">
             <li
-              class="font-sf-mono text-soft-grey md:text-lg text-md mt-1 md:mt-2"
+              class="tracking-tight font-sf-mono text-soft-grey md:text-lg text-md mt-1 md:mt-2"
             >
               Built dashboards and data visualizations that help advisors and
               clients track their investments
@@ -91,7 +90,7 @@
           </ul>
         </li>
         <li>
-          <p class="font-sf-mono md:text-lg text-md">
+          <p class="tracking-tight font-sf-mono md:text-lg text-md">
             <span class="font-bold">Full Stack Engineer</span> @
             <a
               href="https://www.birdseyeglobal.com/"
@@ -103,7 +102,7 @@
           </p>
           <ul class="list-disc pl-6">
             <li
-              class="font-sf-mono text-soft-grey md:text-lg text-md mt-1 md:mt-2"
+              class="tracking-tight font-sf-mono text-soft-grey md:text-lg text-md mt-1 md:mt-2"
             >
               Developed an ad-tech query engine to help clients track customer
               insights and boost ad traffic
