@@ -84,6 +84,23 @@
         </li>
         <li>
           <a
+            href="https://github.com/sohambasu963/Finance-Portfolio-Builder"
+            target="_blank"
+            class="tracking-tight font-sf-mono font-bold md:text-lg text-md border-b-2 border-orange hover:bg-orange hover:text-white px-1 transition duration-500 ease-in-out"
+          >
+            Portfolio Builder
+          </a>
+
+          <ul class="list-disc pl-6">
+            <li
+              class="font-sf-mono text-soft-grey md:text-lg text-md mt-1 md:mt-2"
+            >
+              Developed a full-stack app that builds custom portfolios for users
+            </li>
+          </ul>
+        </li>
+        <li>
+          <a
             href="https://github.com/sohambasu963/MealMetrics"
             target="_blank"
             class="tracking-tight font-sf-mono font-bold md:text-lg text-md border-b-2 border-orange hover:bg-orange hover:text-white px-1 transition duration-500 ease-in-out"

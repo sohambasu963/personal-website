@@ -51,7 +51,7 @@
       <ul class="list-disc pl-6 space-y-4 md:space-y-12">
         <li>
           <p class="tracking-tight font-sf-mono md:text-lg text-md">
-            <span class="font-bold">Full Stack Engineer</span> @
+            <span class="font-bold">Full Stack Engineering Intern</span> @
             <a
               href="https://www.bronco.ai/"
               target="_blank"
@@ -71,7 +71,7 @@
         </li>
         <li>
           <p class="tracking-tight font-sf-mono md:text-lg text-md">
-            <span class="font-bold">Software Engineer</span> @
+            <span class="font-bold">Software Engineering Intern</span> @
             <a
               href="https://www.portfolioxpressway.com/"
               target="_blank"
@@ -91,7 +91,7 @@
         </li>
         <li>
           <p class="tracking-tight font-sf-mono md:text-lg text-md">
-            <span class="font-bold">Full Stack Engineer</span> @
+            <span class="font-bold">Full Stack Engineering Intern</span> @
             <a
               href="https://www.birdseyeglobal.com/"
               target="_blank"

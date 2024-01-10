@@ -50,11 +50,11 @@
   import Soham from '$lib/images/Soham.png'
 </script>
 
-<img
+<!-- <img
   src={Soham}
   alt="Soham"
   class="absolute top-0 m-4 mt-0 md:m-8 md:w-1/4 w-2/3 transform -translate-x-1/2 fade-in left-44.5 md:left-48"
-/>
+/> -->
 
 <div
   class="min-h-screen flex flex-col items-center md:pb-0 pb-8"
