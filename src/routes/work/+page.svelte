@@ -44,7 +44,7 @@
     <div class="typewriter mt-4 mt-[30vh] md:mt-[40vh]">
       <h1 class="text-4xl font-tiempos-headline">Work</h1>
     </div>
-    <div class="-ml-3 md:ml-0">
+    <div class="md:ml-0">
       <Navbar />
     </div>
     <div class="mt-8 w-full text-left">

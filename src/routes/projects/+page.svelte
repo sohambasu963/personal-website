@@ -44,7 +44,7 @@
     <div class="typewriter mt-4 mt-[30vh] md:mt-[40vh]">
       <h1 class="text-4xl font-tiempos-headline">Projects</h1>
     </div>
-    <div class="-ml-3 md:ml-0">
+    <div class="md:ml-0">
       <Navbar />
     </div>
     <div class="mt-8 mb-8 w-full text-left">
@@ -78,7 +78,8 @@
             <li
               class="font-sf-mono text-soft-grey md:text-lg text-md mt-1 md:mt-2"
             >
-              Built an app that allows users to generate and export custom invoices
+              Built an app that allows users to generate and export custom
+              invoices
             </li>
           </ul>
         </li>
@@ -112,7 +113,8 @@
             <li
               class="font-sf-mono text-soft-grey md:text-lg text-md mt-1 md:mt-2"
             >
-              Created an app that uses a picture of your meal to identify its nutritional value
+              Created an app that uses a picture of your meal to identify its
+              nutritional value
             </li>
           </ul>
         </li>

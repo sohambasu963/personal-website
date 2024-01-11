@@ -64,7 +64,7 @@
     <div class="typewriter mt-4 mt-[30vh] md:mt-[40vh]">
       <h1 class="text-4xl font-tiempos-headline">About</h1>
     </div>
-    <div class="-ml-3 md:ml-0">
+    <div class="md:ml-0">
       <Navbar />
     </div>
     <div class="flex flex-row justify-between w-full mt-8">
@@ -74,12 +74,16 @@
         </h2>
         <ul class="list-disc pl-6 mt-4 space-y-2">
           <li>
-            <p class="tracking-tight font-sf-mono text-soft-grey md:text-lg text-md">
+            <p
+              class="tracking-tight font-sf-mono text-soft-grey md:text-lg text-md"
+            >
               Building out cool software for startups
             </p>
           </li>
           <li>
-            <p class="tracking-tight font-sf-mono text-soft-grey md:text-lg text-md">
+            <p
+              class="tracking-tight font-sf-mono text-soft-grey md:text-lg text-md"
+            >
               Hosting
               <a
                 href="https://www.socratica.info/"
@@ -92,27 +96,37 @@
             </p>
           </li>
           <li>
-            <p class="tracking-tight font-sf-mono text-soft-grey md:text-lg text-md">
+            <p
+              class="tracking-tight font-sf-mono text-soft-grey md:text-lg text-md"
+            >
               Tinkering with LLMs and the latest frontend frameworks
             </p>
           </li>
           <li>
-            <p class="tracking-tight font-sf-mono text-soft-grey md:text-lg text-md">
+            <p
+              class="tracking-tight font-sf-mono text-soft-grey md:text-lg text-md"
+            >
               Playing some 🔥 jazz improv on the piano
             </p>
           </li>
           <li>
-            <p class="tracking-tight font-sf-mono text-soft-grey md:text-lg text-md">
+            <p
+              class="tracking-tight font-sf-mono text-soft-grey md:text-lg text-md"
+            >
               Playing bullet chess to improve my reaction time
             </p>
           </li>
           <li>
-            <p class="tracking-tight font-sf-mono text-soft-grey md:text-lg text-md">
+            <p
+              class="tracking-tight font-sf-mono text-soft-grey md:text-lg text-md"
+            >
               Working out, swimming, playing soccer
             </p>
           </li>
           <li>
-            <p class="tracking-tight font-sf-mono text-soft-grey md:text-lg text-md">
+            <p
+              class="tracking-tight font-sf-mono text-soft-grey md:text-lg text-md"
+            >
               All of the above
             </p>
           </li>
@@ -124,7 +138,9 @@
         </h2>
         <ul class="list-disc pl-6 mt-4 space-y-2">
           <li>
-            <p class="tracking-tight font-sf-mono text-soft-grey md:text-lg text-md">
+            <p
+              class="tracking-tight font-sf-mono text-soft-grey md:text-lg text-md"
+            >
               Playing pianos on campus and <a
                 href="https://youtu.be/v9qndL3QweY"
                 target="_blank"
@@ -135,12 +151,16 @@
             </p>
           </li>
           <li>
-            <p class="tracking-tight font-sf-mono text-soft-grey md:text-lg text-md">
+            <p
+              class="tracking-tight font-sf-mono text-soft-grey md:text-lg text-md"
+            >
               Signing up for as many intramural sports as possible
             </p>
           </li>
           <li>
-            <p class="tracking-tight font-sf-mono text-soft-grey md:text-lg text-md">
+            <p
+              class="tracking-tight font-sf-mono text-soft-grey md:text-lg text-md"
+            >
               Hosting friends and building a community
             </p>
           </li>
