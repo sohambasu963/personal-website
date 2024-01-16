@@ -85,7 +85,7 @@
         </li>
         <li>
           <a
-            href="https://github.com/sohambasu963/Finance-Portfolio-Builder"
+            href="https://finance-portfolio.vercel.app/signup"
             target="_blank"
             class="tracking-tight font-sf-mono font-bold md:text-lg text-md border-b-2 border-orange hover:bg-orange hover:text-white px-1 transition duration-500 ease-in-out"
           >
