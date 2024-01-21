@@ -61,7 +61,7 @@
   style="background: linear-gradient(to bottom, #FBF8EF 0%, #F7EFD7 100%);"
 >
   <div class="flex flex-col items-center" style="width: 90%;">
-    <div class="typewriter mt-4 mt-[30vh] md:mt-[40vh]">
+    <div class="typewriter mt-4 mt-[7vh] md:mt-[40vh]">
       <h1 class="text-4xl font-tiempos-headline">About</h1>
     </div>
     <div class="md:ml-0">
