@@ -48,7 +48,6 @@
       <Navbar />
     </div>
     <div class="mt-8 mb-8 w-full text-left">
-      <ul class="list-disc pl-6 space-y-4 md:space-y-4">
         <a
           href="https://www.socratica.info/"
           target="_blank"
@@ -57,7 +56,7 @@
           Socratica Website
         </a>
         <p
-          class="tracking-tight font-bricolage-grotesque text-soft-grey md:text-lg text-md mt-1 md:mt-2"
+          class="mb-2 tracking-tight font-bricolage-grotesque text-soft-grey md:text-lg text-md mt-1 md:mt-2"
         >
           Built a website for Socratica, with a map that tracks nodes from
           around the world
@@ -70,7 +69,7 @@
           Invoicer
         </a>
         <p
-          class="font-bricolage-grotesque text-soft-grey md:text-lg text-md mt-1 md:mt-2"
+          class="mb-2 font-bricolage-grotesque text-soft-grey md:text-lg text-md mt-1 md:mt-2"
         >
           Built an app that allows users to generate and export custom invoices
         </p>
@@ -83,7 +82,7 @@
         </a>
 
         <p
-          class="font-bricolage-grotesque text-soft-grey md:text-lg text-md mt-1 md:mt-2"
+          class="mb-2 font-bricolage-grotesque text-soft-grey md:text-lg text-md mt-1 md:mt-2"
         >
           Developed a full-stack app that builds custom portfolios for users
         </p>
@@ -96,7 +95,7 @@
         </a>
 
         <p
-          class="font-bricolage-grotesque text-soft-grey md:text-lg text-md mt-1 md:mt-2"
+          class="mb-2 font-bricolage-grotesque text-soft-grey md:text-lg text-md mt-1 md:mt-2"
         >
           Created an app that uses a picture of your meal to identify its
           nutritional value
@@ -109,12 +108,11 @@
           School AI Agent
         </a>
         <p
-          class="font-bricolage-grotesque text-soft-grey md:text-lg text-md mt-1 md:mt-2"
+          class="mb-2 font-bricolage-grotesque text-soft-grey md:text-lg text-md mt-1 md:mt-2"
         >
           Developed an AI agent that solves assignments from MIT OpenCourseWare
           (won our team a hackathon!)
         </p>
-      </ul>
     </div>
   </div>
 </div>
