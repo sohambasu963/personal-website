@@ -48,93 +48,72 @@
       <Navbar />
     </div>
     <div class="mt-8 mb-8 w-full text-left">
-      <ul class="list-disc pl-6 space-y-4 md:space-y-8">
-        <li>
-          <a
-            href="https://www.socratica.info/"
-            target="_blank"
-            class="font-sf-mono font-bold md:text-lg text-md border-b-2 border-orange hover:bg-orange hover:text-white px-1 transition duration-500 ease-in-out"
-          >
-            Socratica Website
-          </a>
-          <ul class="list-disc pl-6">
-            <li
-              class="tracking-tight font-sf-mono text-soft-grey md:text-lg text-md mt-1 md:mt-2"
-            >
-              Built a website for Socratica, with a map that tracks nodes from
-              around the world
-            </li>
-          </ul>
-        </li>
-        <li>
-          <a
-            href="https://invoicer-soham.vercel.app/"
-            target="_blank"
-            class="tracking-tight font-sf-mono font-bold md:text-lg text-md border-b-2 border-orange hover:bg-orange hover:text-white px-1 transition duration-500 ease-in-out"
-          >
-            Invoicer
-          </a>
-          <ul class="list-disc pl-6">
-            <li
-              class="font-sf-mono text-soft-grey md:text-lg text-md mt-1 md:mt-2"
-            >
-              Built an app that allows users to generate and export custom
-              invoices
-            </li>
-          </ul>
-        </li>
-        <li>
-          <a
-            href="https://finance-portfolio.vercel.app/signup"
-            target="_blank"
-            class="tracking-tight font-sf-mono font-bold md:text-lg text-md border-b-2 border-orange hover:bg-orange hover:text-white px-1 transition duration-500 ease-in-out"
-          >
-            Portfolio Builder
-          </a>
+      <ul class="list-disc pl-6 space-y-4 md:space-y-4">
+        <a
+          href="https://www.socratica.info/"
+          target="_blank"
+          class="font-bricolage-grotesque font-bold md:text-lg text-md border-b-2 border-orange hover:bg-orange hover:text-white px-1 transition duration-500 ease-in-out"
+        >
+          Socratica Website
+        </a>
+        <p
+          class="tracking-tight font-bricolage-grotesque text-soft-grey md:text-lg text-md mt-1 md:mt-2"
+        >
+          Built a website for Socratica, with a map that tracks nodes from
+          around the world
+        </p>
+        <a
+          href="https://invoicer-soham.vercel.app/"
+          target="_blank"
+          class="tracking-tight font-bricolage-grotesque font-bold md:text-lg text-md border-b-2 border-orange hover:bg-orange hover:text-white px-1 transition duration-500 ease-in-out"
+        >
+          Invoicer
+        </a>
+        <p
+          class="font-bricolage-grotesque text-soft-grey md:text-lg text-md mt-1 md:mt-2"
+        >
+          Built an app that allows users to generate and export custom invoices
+        </p>
+        <a
+          href="https://finance-portfolio.vercel.app/signup"
+          target="_blank"
+          class="tracking-tight font-bricolage-grotesque font-bold md:text-lg text-md border-b-2 border-orange hover:bg-orange hover:text-white px-1 transition duration-500 ease-in-out"
+        >
+          Portfolio Builder
+        </a>
 
-          <ul class="list-disc pl-6">
-            <li
-              class="font-sf-mono text-soft-grey md:text-lg text-md mt-1 md:mt-2"
-            >
-              Developed a full-stack app that builds custom portfolios for users
-            </li>
-          </ul>
-        </li>
-        <li>
-          <a
-            href="https://github.com/sohambasu963/MealMetrics"
-            target="_blank"
-            class="tracking-tight font-sf-mono font-bold md:text-lg text-md border-b-2 border-orange hover:bg-orange hover:text-white px-1 transition duration-500 ease-in-out"
-          >
-            Meal Metrics
-          </a>
+        <p
+          class="font-bricolage-grotesque text-soft-grey md:text-lg text-md mt-1 md:mt-2"
+        >
+          Developed a full-stack app that builds custom portfolios for users
+        </p>
+        <a
+          href="https://github.com/sohambasu963/MealMetrics"
+          target="_blank"
+          class="tracking-tight font-bricolage-grotesque font-bold md:text-lg text-md border-b-2 border-orange hover:bg-orange hover:text-white px-1 transition duration-500 ease-in-out"
+        >
+          Meal Metrics
+        </a>
 
-          <ul class="list-disc pl-6">
-            <li
-              class="font-sf-mono text-soft-grey md:text-lg text-md mt-1 md:mt-2"
-            >
-              Created an app that uses a picture of your meal to identify its
-              nutritional value
-            </li>
-          </ul>
-        </li>
-        <li>
-          <a
-            href="https://devpost.com/software/agents-school"
-            target="_blank"
-            class="tracking-tight font-sf-mono font-bold md:text-lg text-md border-b-2 border-orange hover:bg-orange hover:text-white px-1 transition duration-500 ease-in-out"
-          >
-            School AI Agent
-          </a>
-          <ul class="list-disc pl-6">
-            <li
-              class="font-sf-mono text-soft-grey md:text-lg text-md mt-1 md:mt-2"
-            >
-              Developed an AI agent that solves assignments from MIT
-              OpenCourseWare (won our team a hackathon!)
-            </li>
-          </ul>
-        </li>
+        <p
+          class="font-bricolage-grotesque text-soft-grey md:text-lg text-md mt-1 md:mt-2"
+        >
+          Created an app that uses a picture of your meal to identify its
+          nutritional value
+        </p>
+        <a
+          href="https://devpost.com/software/agents-school"
+          target="_blank"
+          class="tracking-tight font-bricolage-grotesque font-bold md:text-lg text-md border-b-2 border-orange hover:bg-orange hover:text-white px-1 transition duration-500 ease-in-out"
+        >
+          School AI Agent
+        </a>
+        <p
+          class="font-bricolage-grotesque text-soft-grey md:text-lg text-md mt-1 md:mt-2"
+        >
+          Developed an AI agent that solves assignments from MIT OpenCourseWare
+          (won our team a hackathon!)
+        </p>
       </ul>
     </div>
   </div>

@@ -48,67 +48,54 @@
       <Navbar />
     </div>
     <div class="mt-8 w-full text-left">
-      <ul class="list-disc pl-6 space-y-4 md:space-y-12">
-        <li>
-          <p class="tracking-tight font-sf-mono md:text-lg text-md">
-            <span class="font-bold">Full Stack Engineering Intern</span> @
-            <a
-              href="https://www.bronco.ai/"
-              target="_blank"
-              class="border-b-2 border-orange hover:bg-orange hover:text-white px-1 transition duration-500 ease-in-out"
-            >
-              Bronco AI
-            </a>
-          </p>
-          <ul class="list-disc pl-6">
-            <li
-              class="tracking-tight font-sf-mono text-soft-grey md:text-lg text-md mt-1 md:mt-2"
-            >
-              Built LLM-backed prototypes that help factories run more
-              efficiently
-            </li>
-          </ul>
-        </li>
-        <li>
-          <p class="tracking-tight font-sf-mono md:text-lg text-md">
-            <span class="font-bold">Software Engineering Intern</span> @
-            <a
-              href="https://www.portfolioxpressway.com/"
-              target="_blank"
-              class="border-b-2 border-orange hover:bg-orange hover:text-white px-1 transition duration-500 ease-in-out"
-            >
-              Portfolio Xpressway
-            </a>
-          </p>
-          <ul class="list-disc pl-6">
-            <li
-              class="tracking-tight font-sf-mono text-soft-grey md:text-lg text-md mt-1 md:mt-2"
-            >
-              Built dashboards and data visualizations that help advisors and
-              clients track their investments
-            </li>
-          </ul>
-        </li>
-        <li>
-          <p class="tracking-tight font-sf-mono md:text-lg text-md">
-            <span class="font-bold">Full Stack Engineering Intern</span> @
-            <a
-              href="https://www.birdseyeglobal.com/"
-              target="_blank"
-              class="border-b-2 border-orange hover:bg-orange hover:text-white px-1 transition duration-500 ease-in-out"
-            >
-              Birdseye
-            </a>
-          </p>
-          <ul class="list-disc pl-6">
-            <li
-              class="tracking-tight font-sf-mono text-soft-grey md:text-lg text-md mt-1 md:mt-2"
-            >
-              Developed an ad-tech query engine to help clients track customer
-              insights and boost ad traffic
-            </li>
-          </ul>
-        </li>
+      <ul class="list-disc pl-6 space-y-4 md:space-y-6">
+        <p class="tracking-tight font-bricolage-grotesque md:text-lg text-md">
+          <span class="font-bold">Full Stack Engineering Intern</span> @
+          <a
+            href="https://www.bronco.ai/"
+            target="_blank"
+            class="border-b-2 border-orange hover:bg-orange hover:text-white px-1 transition duration-500 ease-in-out"
+          >
+            Bronco AI
+          </a>
+        </p>
+        <p
+          class="tracking-tight font-bricolage-grotesque text-soft-grey md:text-lg text-md mt-1 md:mt-2"
+        >
+          Built LLM-backed prototypes that help factories run more efficiently
+        </p>
+        <p class="tracking-tight font-bricolage-grotesque md:text-lg text-md">
+          <span class="font-bold">Software Engineering Intern</span> @
+          <a
+            href="https://www.portfolioxpressway.com/"
+            target="_blank"
+            class="border-b-2 border-orange hover:bg-orange hover:text-white px-1 transition duration-500 ease-in-out"
+          >
+            Portfolio Xpressway
+          </a>
+        </p>
+        <p
+          class="tracking-tight font-bricolage-grotesque text-soft-grey md:text-lg text-md mt-1 md:mt-2"
+        >
+          Built dashboards and data visualizations that help advisors and
+          clients track their investments
+        </p>
+        <p class="tracking-tight font-bricolage-grotesque md:text-lg text-md">
+          <span class="font-bold">Full Stack Engineering Intern</span> @
+          <a
+            href="https://www.birdseyeglobal.com/"
+            target="_blank"
+            class="border-b-2 border-orange hover:bg-orange hover:text-white px-1 transition duration-500 ease-in-out"
+          >
+            Birdseye
+          </a>
+        </p>
+        <p
+          class="tracking-tight font-bricolage-grotesque text-soft-grey md:text-lg text-md mt-1 md:mt-2"
+        >
+          Developed an ad-tech query engine to help clients track customer
+          insights and boost ad traffic
+        </p>
       </ul>
     </div>
   </div>

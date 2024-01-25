@@ -16,6 +16,7 @@ export default {
         'tiempos-headline': ['Tiempos Headline', 'serif'],
         'sf-mono': ['SF Mono', 'Menlo', 'monospace'],
         'epilogue': ['Epilogue', 'sans-serif'],
+        'bricolage-grotesque': ['Bricolage Grotesque', 'sans-serif'],
       },
       inset: {
         '44.5': '44.5%',
