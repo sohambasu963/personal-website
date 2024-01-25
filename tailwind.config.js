@@ -25,6 +25,9 @@ export default {
       letterSpacing: {
         'tighter': '-0.04em',
       },
+      width: {
+        '9/10': '90%',
+      },
     },
   },
   plugins: [],

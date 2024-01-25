@@ -40,7 +40,7 @@
   class="min-h-screen flex flex-col items-center md:pb-0 pb-8"
   style="background: linear-gradient(to bottom, #FBF8EF 0%, #F7EFD7 100%);"
 >
-  <div class="md:w-4/5 flex flex-col items-center" style="width: 90%">
+  <div class="md:w-4/5 w-9/10 flex flex-col items-center">
     <div class="typewriter mt-4 mt-[7vh] md:mt-[40vh]">
       <h1 class="text-4xl font-tiempos-headline">Work</h1>
     </div>
