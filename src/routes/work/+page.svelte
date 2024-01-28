@@ -48,7 +48,7 @@
       <Navbar />
     </div>
     <div class="mt-8 w-full text-left">
-      <ul class="list-disc pl-6 space-y-4 md:space-y-6">
+      <ul class="list-disc space-y-4 md:space-y-6">
         <p class="tracking-tight font-bricolage-grotesque md:text-lg text-md">
           <span class="font-bold">Full Stack Engineering Intern</span> @
           <a

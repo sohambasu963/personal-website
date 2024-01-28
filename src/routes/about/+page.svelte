@@ -40,6 +40,21 @@
     }
   }
 
+  .gradient {
+    display: inline-block;
+    background: linear-gradient(to bottom, #FBF8EF, #e4eef9);
+    border-radius: 50%;
+    padding: 8px 8px;
+    padding-right: 0px;
+  }
+  
+  @media (max-width: 640px) {
+    .gradient {
+      padding: 4px 4px;
+      padding-left: 8px;
+    }
+  }
+
   /* .fade-in {
     animation: fadeIn 1s ease-in forwards;
   } */
@@ -69,7 +84,7 @@
     </div>
     <div class="flex flex-row justify-between w-full mt-8 space-x-4">
       <div class="w-1/2 text-left">
-        <h2 class="text-xl md:text-2xl font-tiempos-headline tracking-tight">
+        <h2 class="gradient text-xl md:text-2xl font-tiempos-headline tracking-tight">
           What I'm currently up to:
         </h2>
         <ul class="list-disc mt-4 space-y-2">
@@ -119,7 +134,7 @@
         </ul>
       </div>
       <div class="w-1/2 text-left">
-        <h2 class="text-xl md:text-2xl font-tiempos-headline tracking-tight">
+        <h2 class="gradient text-xl md:text-2xl font-tiempos-headline tracking-tight">
           What keeps me going:
         </h2>
         <ul class="list-disc mt-4 space-y-2">

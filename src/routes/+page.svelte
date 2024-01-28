@@ -43,6 +43,7 @@
     border-color: #ffffff;
     overflow: hidden;
   }
+
   .icon {
     display: block;
     width: 80%;
