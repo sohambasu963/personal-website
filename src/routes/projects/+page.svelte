@@ -51,12 +51,12 @@
         <a
           href="https://www.socratica.info/"
           target="_blank"
-          class="font-bricolage-grotesque font-bold md:text-lg text-md border-b-2 border-orange hover:bg-orange hover:text-white px-1 transition duration-500 ease-in-out"
+          class="font-dm-sans font-bold md:text-lg text-md border-b-2 border-orange hover:bg-orange hover:text-white px-1 transition duration-500 ease-in-out"
         >
           Socratica Website
         </a>
         <p
-          class="mb-2 tracking-tight font-bricolage-grotesque text-soft-grey md:text-lg text-md mt-1 md:mt-2"
+          class="mb-2 tracking-tight font-dm-sans text-off-black md:text-lg text-md mt-1 md:mt-2"
         >
           Built a website for Socratica, with a map that tracks nodes from
           around the world
@@ -64,38 +64,38 @@
         <a
           href="https://invoicer-soham.vercel.app/"
           target="_blank"
-          class="tracking-tight font-bricolage-grotesque font-bold md:text-lg text-md border-b-2 border-orange hover:bg-orange hover:text-white px-1 transition duration-500 ease-in-out"
+          class="tracking-tight font-dm-sans font-bold md:text-lg text-md border-b-2 border-orange hover:bg-orange hover:text-white px-1 transition duration-500 ease-in-out"
         >
           Invoicer
         </a>
         <p
-          class="mb-2 font-bricolage-grotesque text-soft-grey md:text-lg text-md mt-1 md:mt-2"
+          class="mb-2 font-dm-sans text-off-black md:text-lg text-md mt-1 md:mt-2"
         >
           Built an app that allows users to generate and export custom invoices
         </p>
         <a
           href="https://finance-portfolio.vercel.app/signup"
           target="_blank"
-          class="tracking-tight font-bricolage-grotesque font-bold md:text-lg text-md border-b-2 border-orange hover:bg-orange hover:text-white px-1 transition duration-500 ease-in-out"
+          class="tracking-tight font-dm-sans font-bold md:text-lg text-md border-b-2 border-orange hover:bg-orange hover:text-white px-1 transition duration-500 ease-in-out"
         >
           Portfolio Builder
         </a>
 
         <p
-          class="mb-2 font-bricolage-grotesque text-soft-grey md:text-lg text-md mt-1 md:mt-2"
+          class="mb-2 font-dm-sans text-off-black md:text-lg text-md mt-1 md:mt-2"
         >
           Developed a full-stack app that builds custom portfolios for users
         </p>
         <a
           href="https://github.com/sohambasu963/MealMetrics"
           target="_blank"
-          class="tracking-tight font-bricolage-grotesque font-bold md:text-lg text-md border-b-2 border-orange hover:bg-orange hover:text-white px-1 transition duration-500 ease-in-out"
+          class="tracking-tight font-dm-sans font-bold md:text-lg text-md border-b-2 border-orange hover:bg-orange hover:text-white px-1 transition duration-500 ease-in-out"
         >
           Meal Metrics
         </a>
 
         <p
-          class="mb-2 font-bricolage-grotesque text-soft-grey md:text-lg text-md mt-1 md:mt-2"
+          class="mb-2 font-dm-sans text-off-black md:text-lg text-md mt-1 md:mt-2"
         >
           Created an app that uses a picture of your meal to identify its
           nutritional value
@@ -103,12 +103,12 @@
         <a
           href="https://devpost.com/software/agents-school"
           target="_blank"
-          class="tracking-tight font-bricolage-grotesque font-bold md:text-lg text-md border-b-2 border-orange hover:bg-orange hover:text-white px-1 transition duration-500 ease-in-out"
+          class="tracking-tight font-dm-sans font-bold md:text-lg text-md border-b-2 border-orange hover:bg-orange hover:text-white px-1 transition duration-500 ease-in-out"
         >
           School AI Agent
         </a>
         <p
-          class="mb-2 font-bricolage-grotesque text-soft-grey md:text-lg text-md mt-1 md:mt-2"
+          class="mb-2 font-dm-sans text-off-black md:text-lg text-md mt-1 md:mt-2"
         >
           Developed an AI agent that solves assignments from MIT OpenCourseWare
           (won our team a hackathon!)

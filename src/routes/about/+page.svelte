@@ -89,12 +89,12 @@
         </h2>
         <ul class="list-disc mt-4 space-y-2">
           <p
-            class="tracking-tight font-bricolage-grotesque text-soft-grey md:text-lg text-md"
+            class="tracking-tight font-dm-sans text-off-black md:text-lg text-md"
           >
             Building out cool software for startups
           </p>
           <p
-            class="tracking-tight font-bricolage-grotesque text-soft-grey md:text-lg text-md"
+            class="tracking-tight font-dm-sans text-off-black md:text-lg text-md"
           >
             Hosting
             <a
@@ -107,27 +107,27 @@
             sessions (I built the website!!)
           </p>
           <p
-            class="tracking-tight font-bricolage-grotesque text-soft-grey md:text-lg text-md"
+            class="tracking-tight font-dm-sans text-off-black md:text-lg text-md"
           >
             Tinkering with LLMs and the latest frontend frameworks
           </p>
           <p
-            class="tracking-tight font-bricolage-grotesque text-soft-grey md:text-lg text-md"
+            class="tracking-tight font-dm-sans text-off-black md:text-lg text-md"
           >
             Playing some 🔥 jazz improv on the piano
           </p>
           <p
-            class="tracking-tight font-bricolage-grotesque text-soft-grey md:text-lg text-md"
+            class="tracking-tight font-dm-sans text-off-black md:text-lg text-md"
           >
             Playing bullet chess to improve my reaction time
           </p>
           <p
-            class="tracking-tight font-bricolage-grotesque text-soft-grey md:text-lg text-md"
+            class="tracking-tight font-dm-sans text-off-black md:text-lg text-md"
           >
             Working out, swimming, playing soccer
           </p>
           <p
-            class="tracking-tight font-bricolage-grotesque text-soft-grey md:text-lg text-md"
+            class="tracking-tight font-dm-sans text-off-black md:text-lg text-md"
           >
             All of the above
           </p>
@@ -139,7 +139,7 @@
         </h2>
         <ul class="list-disc mt-4 space-y-2">
           <p
-            class="tracking-tight font-bricolage-grotesque text-soft-grey md:text-lg text-md"
+            class="tracking-tight font-dm-sans text-off-black md:text-lg text-md"
           >
             Playing pianos on campus and <a
               href="https://youtu.be/v9qndL3QweY"
@@ -150,12 +150,12 @@
             </a>
           </p>
           <p
-            class="tracking-tight font-bricolage-grotesque text-soft-grey md:text-lg text-md"
+            class="tracking-tight font-dm-sans text-off-black md:text-lg text-md"
           >
             Signing up for as many intramural sports as possible
           </p>
           <p
-            class="tracking-tight font-bricolage-grotesque text-soft-grey md:text-lg text-md"
+            class="tracking-tight font-dm-sans text-off-black md:text-lg text-md"
           >
             Hosting friends and building a community
           </p>

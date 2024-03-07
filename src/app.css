@@ -2,6 +2,14 @@
 @tailwind components;
 @tailwind utilities;
 
+
+@font-face {
+    font-family: "DM Sans";
+    src: url("/src/lib/fonts/DMSans-Regular.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
 @font-face {
     font-family: "Bricolage Grotesque";
     src: url("/src/lib/fonts/BricolageGrotesque-Regular.ttf") format("truetype");

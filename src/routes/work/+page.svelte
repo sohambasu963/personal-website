@@ -49,7 +49,7 @@
     </div>
     <div class="mt-8 w-full text-left">
       <ul class="list-disc space-y-4 md:space-y-6">
-        <p class="tracking-tight font-bricolage-grotesque md:text-lg text-md">
+        <p class="tracking-tight font-dm-sans md:text-lg text-md">
           <span class="font-bold">Full Stack Engineering Intern</span> @
           <a
             href="https://www.bronco.ai/"
@@ -60,11 +60,11 @@
           </a>
         </p>
         <p
-          class="tracking-tight font-bricolage-grotesque text-soft-grey md:text-lg text-md mt-1 md:mt-2"
+          class="tracking-tight font-dm-sans text-off-black md:text-lg text-md mt-1 md:mt-2"
         >
           Built LLM-backed prototypes that help factories run more efficiently
         </p>
-        <p class="tracking-tight font-bricolage-grotesque md:text-lg text-md">
+        <p class="tracking-tight font-dm-sans md:text-lg text-md">
           <span class="font-bold">Software Engineering Intern</span> @
           <a
             href="https://www.portfolioxpressway.com/"
@@ -75,12 +75,12 @@
           </a>
         </p>
         <p
-          class="tracking-tight font-bricolage-grotesque text-soft-grey md:text-lg text-md mt-1 md:mt-2"
+          class="tracking-tight font-dm-sans text-off-black md:text-lg text-md mt-1 md:mt-2"
         >
           Built dashboards and data visualizations that help advisors and
           clients track their investments
         </p>
-        <p class="tracking-tight font-bricolage-grotesque md:text-lg text-md">
+        <p class="tracking-tight font-dm-sans md:text-lg text-md">
           <span class="font-bold">Full Stack Engineering Intern</span> @
           <a
             href="https://www.birdseyeglobal.com/"
@@ -91,7 +91,7 @@
           </a>
         </p>
         <p
-          class="tracking-tight font-bricolage-grotesque text-soft-grey md:text-lg text-md mt-1 md:mt-2"
+          class="tracking-tight font-dm-sans text-off-black md:text-lg text-md mt-1 md:mt-2"
         >
           Developed an ad-tech query engine to help clients track customer
           insights and boost ad traffic

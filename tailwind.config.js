@@ -10,12 +10,14 @@ export default {
       },
       colors: {
         'soft-grey': '#706F6B',
+        'off-black': '#3D3D3D',
         'orange': '#ab530a'
       },
       fontFamily: {
         'tiempos-headline': ['Tiempos Headline', 'serif'],
         'sf-mono': ['SF Mono', 'Menlo', 'monospace'],
         'epilogue': ['Epilogue', 'sans-serif'],
+        'dm-sans': ['DM Sans', 'sans-serif'],
         'bricolage-grotesque': ['Bricolage Grotesque', 'sans-serif'],
       },
       inset: {

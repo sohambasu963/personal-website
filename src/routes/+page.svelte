@@ -81,18 +81,18 @@
 
   <div class="md:w-4/5 flex flex-col items-center mt-8" style="width: 90%">
     <p
-      class="md:text-lg text-md font-bricolage-grotesque text-soft-grey text-center tracking-tight"
+      class="md:text-lg text-md font-dm-sans text-off-black text-center tracking-tight"
     >
       Software Developer and Computer Science + Finance at the University of
       Waterloo
     </p>
     <p
-      class="md:text-lg text-md font-bricolage-grotesque text-soft-grey text-center mt-1 tracking-tight"
+      class="md:text-lg text-md font-dm-sans text-off-black text-center mt-1 tracking-tight"
     >
       Actively seeking challenging projects and internship opportunities
     </p>
     <p
-      class="md:text-lg text-md font-bricolage-grotesque text-soft-grey text-center mt-1 tracking-tight"
+      class="md:text-lg text-md font-dm-sans text-off-black text-center mt-1 tracking-tight"
     >
       Reach me at {''}
       <a
